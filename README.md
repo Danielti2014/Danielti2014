@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Ferreira;I'm+from+Brazil;I'm+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Ferreira;OLÁ,+Meu+nome+é+Daniel+Ferreira;I'm+from+Brazil;Eu+sou+do+Brasil;I'm+Graduated+systems+Development;Graduado+Analise+Desenvolvimento+Sistemas;Be+Welcome!;Seja+Benvindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <img align="center" width="450" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danielti2014&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=ff91a4&text_color=FF0000&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danielti2014&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=ff91a4&text_color=FF0000&bg_color=0d1117" alt="Daniel Ferreira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielti2014&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
 </div>
 
