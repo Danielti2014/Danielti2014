@@ -15,7 +15,7 @@
 
 - 🔭 Atualmente estou trabalhando com **Front-End**
 
-- 🌱 Estou estudando **React**
+- 🌱 Estou estudando **Angular e React**
 
 - 👨‍💻 Como te encontrar? [https://www.linkedin.com/in/daniel-ferreira-16719484/](https://www.linkedin.com/in/daniel-ferreira-16719484/)
 
